@@ -10,4 +10,12 @@ Assist developers in the Unity Editor to quickly learn the reference relationshi
 
 #### 2. Right-click to bring up the floating menu and find the option: "Find xxx References".
 
-![Example - Use of Components in Inspector.png](./Example - Use of Components in Inspector.png)
+##### Example - Use of Components in Inspector
+![Example - Use of Components in Inspector](/Example%20-%20Use%20of%20Components%20in%20Inspector.png)
+
+##### Example - Use for GameObjects displayed in Hierarchy
+![Example - Use for GameObjects displayed in Hierarchy](/Example%20-%20Use%20for%20GameObjects%20displayed%20in%20Hierarchy.png)
+
+#### 2. Right-click to bring up the floating menu and find the option: "Find xxx References".
+
+![result](/result.png)
